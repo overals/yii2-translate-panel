@@ -30,7 +30,7 @@
 		"rmrevin/yii2-fontawesome" : "*",
 		"uran1980/yii2-igrowl-widget" : "*",
 		"uran1980/yii2-chosen-select" : "*",
-		"uran1980/yii2-bootstrap-confirmation" : "dev-master",
+		"jakabj16/yii2-bootstrap-confirmation" : "*",
 		"uran1980/yii2-jquery-essential" : "*"
 	},
 	"autoload" : {
@@ -40,11 +40,5 @@
 	},
 	"extra" : {
 		"bootstrap" : "uran1980\\yii\\modules\\i18n\\Bootstrap"
-	},
-	"repositories": [
-		{
-		    "type": "vcs",
-		    "url": "https://github.com/overals/yii2-bootstrap-confirmation"
-		}
-	    ]
+	}
 }
