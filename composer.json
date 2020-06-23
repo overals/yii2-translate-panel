@@ -40,5 +40,11 @@
 	},
 	"extra" : {
 		"bootstrap" : "uran1980\\yii\\modules\\i18n\\Bootstrap"
-	}
+	},
+	"repositories": [
+		{
+		    "type": "vcs",
+		    "url": "https://github.com/overals/yii2-bootstrap-confirmation"
+		}
+	    ]
 }
