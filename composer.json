@@ -30,7 +30,7 @@
 		"rmrevin/yii2-fontawesome" : "*",
 		"uran1980/yii2-igrowl-widget" : "*",
 		"uran1980/yii2-chosen-select" : "*",
-		"uran1980/yii2-bootstrap-confirmation" : "*",
+		"uran1980/yii2-bootstrap-confirmation" : "dev-master",
 		"uran1980/yii2-jquery-essential" : "*"
 	},
 	"autoload" : {
